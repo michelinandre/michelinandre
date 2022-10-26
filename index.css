@@ -1,0 +1,11 @@
+body {
+    background-color: bisque;
+}
+
+header {
+    background-color: blue;
+}
+
+nav li {
+    display: inline;
+}
