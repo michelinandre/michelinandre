@@ -7,5 +7,5 @@ header {
 }
 
 nav li {
-    display: inline;
+    display: inline; background-color: brown;
 }
